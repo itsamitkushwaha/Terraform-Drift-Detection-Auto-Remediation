@@ -1,7 +1,5 @@
 # Terraform-Drift-Detection-Auto-Remediation
 
-# 🔍 Terraform Drift Detection & Auto-Remediation
-
 Automated infrastructure drift detection using GitHub Actions, Terraform, and AWS.
 
 [![Terraform](https://img.shields.io/badge/Terraform-1.10.3-623CE4?logo=terraform)](https://www.terraform.io/)
