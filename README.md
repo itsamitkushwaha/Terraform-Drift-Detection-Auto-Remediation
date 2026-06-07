@@ -10,10 +10,10 @@ Automated infrastructure drift detection using GitHub Actions, Terraform, and AW
 Detects and automatically fixes AWS infrastructure drift. Deploys VPC, ALB, ASG, and S3 with continuous monitoring.
 
 **Key Features**: 
-⏰ Scheduled checks (every minute) 
-🔄 Auto-remediation 
-🌍 Multi-environment 
-📊 Notifications
+- ⏰ Scheduled checks (every minute) 
+- 🔄 Auto-remediation 
+- 🌍 Multi-environment 
+- 📊 Notifications
 
 ## 🚀 Quick Start
 
